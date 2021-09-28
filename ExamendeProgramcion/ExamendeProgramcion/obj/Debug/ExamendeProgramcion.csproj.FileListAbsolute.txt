@@ -1,0 +1,11 @@
+C:\Users\JADPA_15\source\repos\ExamendeProgramcion\ExamendeProgramcion\bin\Debug\ExamendeProgramcion.exe.config
+C:\Users\JADPA_15\source\repos\ExamendeProgramcion\ExamendeProgramcion\bin\Debug\ExamendeProgramcion.exe
+C:\Users\JADPA_15\source\repos\ExamendeProgramcion\ExamendeProgramcion\bin\Debug\ExamendeProgramcion.pdb
+C:\Users\JADPA_15\source\repos\ExamendeProgramcion\ExamendeProgramcion\obj\Debug\ExamendeProgramcion.csprojAssemblyReference.cache
+C:\Users\JADPA_15\source\repos\ExamendeProgramcion\ExamendeProgramcion\obj\Debug\ExamendeProgramcion.Form1.resources
+C:\Users\JADPA_15\source\repos\ExamendeProgramcion\ExamendeProgramcion\obj\Debug\ExamendeProgramcion.Properties.Resources.resources
+C:\Users\JADPA_15\source\repos\ExamendeProgramcion\ExamendeProgramcion\obj\Debug\ExamendeProgramcion.Registro.resources
+C:\Users\JADPA_15\source\repos\ExamendeProgramcion\ExamendeProgramcion\obj\Debug\ExamendeProgramcion.csproj.GenerateResource.cache
+C:\Users\JADPA_15\source\repos\ExamendeProgramcion\ExamendeProgramcion\obj\Debug\ExamendeProgramcion.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_15\source\repos\ExamendeProgramcion\ExamendeProgramcion\obj\Debug\ExamendeProgramcion.exe
+C:\Users\JADPA_15\source\repos\ExamendeProgramcion\ExamendeProgramcion\obj\Debug\ExamendeProgramcion.pdb
